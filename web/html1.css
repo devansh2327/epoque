@@ -1,0 +1,22 @@
+ 
+h1{
+    color: rgb(38, 0, 255);
+}
+h2{
+    background-color: #000000; 
+}
+h3{
+    background-color: #ff0000;   
+}
+h4{
+    background-color:rgb(255,255,255); 
+}
+button{
+    color:#ff0000;
+    background-color: black;
+}
+p{
+    text-align: center;
+    color: red;
+  }
+ 
